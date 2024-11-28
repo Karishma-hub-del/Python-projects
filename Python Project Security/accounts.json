@@ -1,0 +1,17 @@
+{
+    "001": {
+        "agent_id": "001",
+        "username": "agent.smith",
+        "hashed_password": "$2b$12$WJqsOOIx8/y5VEbvVViZTuAbbIKd2dfNznmZsRXp5jBTq17ltxwoe"
+    },
+    "007": {
+        "agent_id": "007",
+        "username": "agent.smith",
+        "hashed_password": "$2b$12$TZf3cDIrY6RHpPGJ5.EPWergbk8es7b4Q7j9sKSnMtQmFrT/snN7e"
+    },
+    "006": {
+        "agent_id": "006",
+        "username": "agent.moustache",
+        "hashed_password": "$2b$12$zHcmpgRlIzDN1aBpFxYZmum3zXULAwxlm1GvPJJ6igiXccWBLakmW"
+    }
+}
